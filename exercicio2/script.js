@@ -9,15 +9,15 @@ console.log(medo);
 
 // letra c
 const perguntaA = "Você tem um pet?";
-const respostaA = prompt(perguntaA)
+const respostaA = prompt(perguntaA);
 
-const perguntaB = "Você consome bebidas alcoolicas?"
-const respostaB = prompt(perguntaB)
+const perguntaB = "Você consome bebidas alcoolicas?";
+const respostaB = prompt(perguntaB);
 
-const perguntaC = "Você tem medo de aranha?"
-const respostaC = prompt(perguntaC)
+const perguntaC = "Você tem medo de aranha?";
+const respostaC = prompt(perguntaC);
 
-// Impressão das respostas 
-console.log(perguntaA, respostaA)
-console.log(perguntaB, respostaB)
-console.log(perguntaC, respostaC)
+// Impressão das respostas
+console.log(perguntaA, respostaA);
+console.log(perguntaB, respostaB);
+console.log(perguntaC, respostaC);
